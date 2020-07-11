@@ -1,0 +1,25 @@
+{
+  "name": "simulator--credit-card",
+  "version": "1.0.0",
+  "description": "![card](https://2utfff4d3dkt3biit53nsvep-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/credit-card.gif)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FehSchiavon/simulator--credit-card.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FehSchiavon/simulator--credit-card/issues"
+  },
+  "homepage": "https://github.com/FehSchiavon/simulator--credit-card#readme",
+  "devDependencies": {
+    "eslint": "^7.4.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0"
+  }
+}
