@@ -1,4 +1,4 @@
-# Card Credit- Check Installments
+# Card Credit - Check Installments
 
 ![card](https://2utfff4d3dkt3biit53nsvep-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/credit-card.gif)
 
